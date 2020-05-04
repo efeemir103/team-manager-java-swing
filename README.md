@@ -7,4 +7,4 @@ For more check the output folder...
 
 ### Project Structure
 
-![uml-diagram-pic](./Class Diagram UML.png)
+![uml-diagram-pic](./Class\ Diagram\ UML.png)
