@@ -1,5 +1,10 @@
 # team-manager-java-swing
 A simple team manager app written in Java with Swing API.
 
-Check output folder for gallery pictures like this:
-![menu-gui](./output/GUI/menu.png)
+
+![menu-gui-pic](./output/GUI/menu.png)
+For more check the output folder...
+
+### Project Structure
+
+![uml-diagram-pic](./UML Class Diagram.png)
